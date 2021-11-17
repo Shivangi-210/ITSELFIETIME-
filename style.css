@@ -1,0 +1,41 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#ta
+{
+    width: 300px;
+}
+.body
+{
+background-image: url("purple.jpg");
+background-position: fixed;
+background-size: cover;
+}
+#h4{
+    text-decoration: underline;
+}
+#button{
+    color: rgb(0, 0, 0);
+    background-color: rgb(193, 131, 243);
+    width: 118px;
+    height: 50px;
+    border-style: solid;
+    border-color: rgb(255, 221, 234);
+    border-width: 7px;
+   
+}
+#p{
+    font-weight: 550;
+}
